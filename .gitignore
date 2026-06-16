@@ -1,0 +1,27 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+venv/
+django_backend/venv/
+*.sqlite3
+db.sqlite3
+
+# VSCode
+.vscode/
+.idea/
+
+# Expo
+.expo/
+
+# Generated
+*.pyc
